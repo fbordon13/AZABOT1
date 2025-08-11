@@ -1,0 +1,21 @@
+header{
+    background-color: darkslateblue;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}
+
+section{
+    background-color: lightslategrey;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+}
+
+footer{
+    background-color: dimgray;
+    text-align: center;
+    padding: 10px;
+}
